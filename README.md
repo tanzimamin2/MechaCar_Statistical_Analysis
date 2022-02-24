@@ -82,6 +82,5 @@ There are many factors that consumers take into consideration when evaluating a 
   * Average safety test scores for population and average price for population
 
 ## Links
-  * Visit this [link](https://github.com/tanzimamin2/Bikesharing) for other resources.
-  * Tableau Public [link](https://public.tableau.com/app/profile/tanzim.amin/viz/bikesharing_16451367548010/CheckoutTimesforUsers#1)
+  * Visit this [link](https://github.com/tanzimamin2/MechaCar_Statistical_Analysis) for other resources.
    
